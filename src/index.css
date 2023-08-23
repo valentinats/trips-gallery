@@ -1,0 +1,14 @@
+html,
+body {
+  width: 100%;
+  font-family: "Arimo", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 auto;
+  background: #fffef4;
+}
+
+.container {
+  width: 1150px;
+  margin: 0 auto;
+}
